@@ -37,3 +37,6 @@
 [submodule "oz_externship_03_team4"]
 	path = oz_externship_03_team4
 	url = https://github.com/OZ-Coding-School/oz_externship_fe_03_team4
+[submodule "oz_externship_04_team1"]
+	path = oz_externship_04_team1
+	url = https://github.com/OZ-Coding-School/oz_externship_fe_04_team1.git
